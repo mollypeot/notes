@@ -35,16 +35,16 @@ If you 'watch' this repo in your GitHub account, every time there is a change (i
 
 2. `cd` to the directory where the notes are stored
 
-3. Type `git`. This will download all the updates to your computer.
+3. Type `git pull`. This will download all the updates to your computer! (Pretty cool, eh?)
 
 
 ###FAQ
 
 **What if I play with the code and break it?**
 
-That's okay! Do it! Play! Break! You can always get a fresh copy from our GitHub repo. Simply type: 
+That's okay! Do it! Play! Break! You can always get a fresh copy from our GitHub repo. Simply type:
 
-`git checkout filename` 
+`git checkout filename`
 
 where filename is the file you messed up.
 
