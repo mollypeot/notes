@@ -46,7 +46,11 @@ That's okay! Do it! Play! Break! You can always get a fresh copy from our GitHub
 
 `git checkout filename`
 
-where filename is the file you messed up.
+where filename is the full path of the file you messed up.
+
+So, if you are in `notes` messed up `internet-and-web.html` in the `week-01` directory, you would type:
+
+`git checkout week-01/internet-and-web.html`
 
 **What's this I hear about 'git-ing' extra credit?**
 
