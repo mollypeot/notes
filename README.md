@@ -54,7 +54,7 @@ So, if you are in `notes` messed up `internet-and-web.html` in the `week-01` dir
 
 **What's this I hear about 'git-ing' extra credit?**
 
-I make mistakes. Code errors. Typos. I make mistakes from time to time. Professors = 100 percent human.
+I make mistakes. Code errors. Typos. Professors = 100 percent human.
 
 If you find an error in any of the code repos (they have to be .html or .css files), correct it and submit a pull request on GitHub.
 
